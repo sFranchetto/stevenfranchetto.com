@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Software engineer, full-stack web & enterprise developer, and corgi lover.",
 		description:
-			"My name is Steven, it's a pleasure to meet you! I am a full-stack developer with expertise in Java, Python, and MVC technologies. I will be graduating Concordia University in April of 2024 with a Bachelors in Software engineering with a passion for data-driven applications. I'm always interested in evolving technologies, if you'd like to connect or share ideas don't hesitate to contact me, I'd love to hear from you!",
+			"My name is Steven, it's a pleasure to meet you! I am a full-stack developer with expertise in Java, Python, and MVC technologies. I will be graduating Concordia University in April of 2024 with a Bachelors in Software engineering with a passion for data-intensive applications. I'm always interested in evolving technologies, if you'd like to connect or share ideas don't hesitate to contact me, I'd love to hear from you!",
 	},
 
 	about: {
