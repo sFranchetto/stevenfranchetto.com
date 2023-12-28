@@ -33,7 +33,7 @@ function article_1() {
 	};
 }
 
-function article_2() {
+function article_3() {
 	return {
 		date: "September 2015 - April 2019",
 		title: "Technical Degree in Computer Science and Technology",
@@ -48,6 +48,21 @@ function article_2() {
 	};
 }
 
-const myArticles = [article_1, article_2];
+function article_2() {
+	return {
+		date: "September 2019 - April 2020",
+		title: "Certificate of Science  and Technology",
+		description:
+			"Took some introductory Engineering courses as well as some maths that I did not complete in CEGEP that were required for a Bachelors of Engineering.",
+		style: ``,
+		body: (
+			<React.Fragment>
+				<h1>Content of article 2</h1>
+			</React.Fragment>
+		),
+	};
+}
+
+const myArticles = [article_1, article_2, article_3];
 
 export default myArticles;
